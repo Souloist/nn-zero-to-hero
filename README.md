@@ -8,13 +8,15 @@ Ensure you have the following installed on your system
 * Python 3.7+
 * pip (Python package installer)
 
-1. Create a virtual env
+1. Create and activate virtual env
 ```
 python3 -m venv venv
-source venv/bin/activate
+. ./venv/bin/activate
 ```
-2. Install dependencies from requirements.txt
+2. Create requirements.txt and install dependencies
 ```
+pip install pip-tools
+pip-compile requirements.in
 pip install -r requirements.txt
 ```
 3. Start Jupyter notebook
