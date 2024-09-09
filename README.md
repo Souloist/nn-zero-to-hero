@@ -1,6 +1,6 @@
 # Neural Networks: Zero to Hero Worksheet Solutions
-Worksheet solutions to Neural Networks: Zero to Hero by Andrej Karpathy. Huge thanks to https://github.com/Russ741/karpathy-nn-z2h
-for the worksheets!
+Worksheet + exercise solutions  to Neural Networks: Zero to Hero by Andrej Karpathy. Huge thanks to https://github.com/Russ741/karpathy-nn-z2h
+for the worksheets 2a, 2b and 3!
 
 ## Installation
 
